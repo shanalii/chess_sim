@@ -1,0 +1,59 @@
+Starting board:
+oRoo
+oooo
+oBoo
+oooo
+Rook at a2
+Bishop at c2
+
+Turn 1
+Coin flipped tails, rook moves right
+Dice rolled 3
+Rooo
+oooo
+oBoo
+oooo
+Rook at a1
+Bishop at c2
+
+Turn 2
+Coin flipped tails, rook moves right
+Dice rolled 2
+ooRo
+oooo
+oBoo
+oooo
+Rook at a3
+Bishop at c2
+
+Turn 3
+Coin flipped heads, rook moves up
+Dice rolled 5
+oooo
+oooo
+oBoo
+ooRo
+Rook at d3
+Bishop at c2
+
+Turn 4
+Coin flipped heads, rook moves up
+Dice rolled 5
+oooo
+oooo
+oBRo
+oooo
+Rook at c3
+Bishop at c2
+
+Turn 5
+Coin flipped tails, rook moves right
+Dice rolled 6
+oooo
+oooo
+RBoo
+oooo
+Rook at c1
+Bishop at c2
+
+Bishop was taken, game ended.
