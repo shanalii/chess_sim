@@ -1,0 +1,98 @@
+test big board taken
+Starting board:
+oooooooo
+oooooooo
+oooBoooo
+oooooooo
+oooooooo
+oooooooo
+oooooooo
+oRoooooo
+Rook at h2
+Bishop at c4
+
+Turn 1
+Coin flipped heads, rook moves up
+Dice rolled 1
+oooooooo
+oooooooo
+oooBoooo
+oooooooo
+oooooooo
+oooooooo
+oRoooooo
+oooooooo
+Rook at g2
+Bishop at c4
+
+Turn 2
+Coin flipped tails, rook moves right
+Dice rolled 1
+oooooooo
+oooooooo
+oooBoooo
+oooooooo
+oooooooo
+oooooooo
+ooRooooo
+oooooooo
+Rook at g3
+Bishop at c4
+
+Turn 3
+Coin flipped tails, rook moves right
+Dice rolled 5
+oooooooo
+oooooooo
+oooBoooo
+oooooooo
+oooooooo
+oooooooo
+oooooooR
+oooooooo
+Rook at g8
+Bishop at c4
+
+Turn 4
+Coin flipped tails, rook moves right
+Dice rolled 2
+oooooooo
+oooooooo
+oooBoooo
+oooooooo
+oooooooo
+oooooooo
+oRoooooo
+oooooooo
+Rook at g2
+Bishop at c4
+
+Turn 5
+Coin flipped heads, rook moves up
+Dice rolled 4
+oooooooo
+oooooooo
+oRoBoooo
+oooooooo
+oooooooo
+oooooooo
+oooooooo
+oooooooo
+Rook at c2
+Bishop at c4
+
+Turn 6
+Coin flipped tails, rook moves right
+Dice rolled 2
+oooooooo
+oooooooo
+oooRoooo
+oooooooo
+oooooooo
+oooooooo
+oooooooo
+oooooooo
+Rook at c4
+Bishop at c4
+
+Bishop was taken, game ended.
