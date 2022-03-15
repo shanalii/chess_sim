@@ -13,7 +13,7 @@ if __name__ == '__main__':
     taken = False
 
     for i in range(config.NUM_TURNS):
-        print("Turn " + str(i + 1))
+        print("Turn", str(i + 1))
         if chessboard.move_rook():
             taken = True
             print("Bishop was taken, game ended.")
