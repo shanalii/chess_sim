@@ -1,0 +1,223 @@
+Starting board:
+oooooooo
+oooooooo
+oooBoooo
+oooooooo
+oooooooo
+oooooooo
+oooooooo
+oRoooooo
+Rook at h2
+Bishop at c4
+
+Turn 1
+Coin flipped tails, rook moves right
+Dice rolled 1
+oooooooo
+oooooooo
+oooBoooo
+oooooooo
+oooooooo
+oooooooo
+oooooooo
+ooRooooo
+Rook at h3
+Bishop at c4
+
+Turn 2
+Coin flipped tails, rook moves right
+Dice rolled 3
+oooooooo
+oooooooo
+oooBoooo
+oooooooo
+oooooooo
+oooooooo
+oooooooo
+oooooRoo
+Rook at h6
+Bishop at c4
+
+Turn 3
+Coin flipped heads, rook moves up
+Dice rolled 1
+oooooooo
+oooooooo
+oooBoooo
+oooooooo
+oooooooo
+oooooooo
+oooooRoo
+oooooooo
+Rook at g6
+Bishop at c4
+
+Turn 4
+Coin flipped heads, rook moves up
+Dice rolled 6
+oooooRoo
+oooooooo
+oooBoooo
+oooooooo
+oooooooo
+oooooooo
+oooooooo
+oooooooo
+Rook at a6
+Bishop at c4
+
+Turn 5
+Coin flipped heads, rook moves up
+Dice rolled 4
+oooooooo
+oooooooo
+oooBoooo
+oooooooo
+oooooRoo
+oooooooo
+oooooooo
+oooooooo
+Rook at e6
+Bishop at c4
+
+Turn 6
+Coin flipped heads, rook moves up
+Dice rolled 5
+oooooooo
+oooooooo
+oooBoooo
+oooooooo
+oooooooo
+oooooooo
+oooooooo
+oooooRoo
+Rook at h6
+Bishop at c4
+
+Turn 7
+Coin flipped heads, rook moves up
+Dice rolled 3
+oooooooo
+oooooooo
+oooBoooo
+oooooooo
+oooooRoo
+oooooooo
+oooooooo
+oooooooo
+Rook at e6
+Bishop at c4
+
+Turn 8
+Coin flipped tails, rook moves right
+Dice rolled 3
+oooooooo
+oooooooo
+oooBoooo
+oooooooo
+Rooooooo
+oooooooo
+oooooooo
+oooooooo
+Rook at e1
+Bishop at c4
+
+Turn 9
+Coin flipped heads, rook moves up
+Dice rolled 1
+oooooooo
+oooooooo
+oooBoooo
+Rooooooo
+oooooooo
+oooooooo
+oooooooo
+oooooooo
+Rook at d1
+Bishop at c4
+
+Turn 10
+Coin flipped heads, rook moves up
+Dice rolled 4
+oooooooo
+oooooooo
+oooBoooo
+oooooooo
+oooooooo
+oooooooo
+oooooooo
+Rooooooo
+Rook at h1
+Bishop at c4
+
+Turn 11
+Coin flipped tails, rook moves right
+Dice rolled 4
+oooooooo
+oooooooo
+oooBoooo
+oooooooo
+oooooooo
+oooooooo
+oooooooo
+ooooRooo
+Rook at h5
+Bishop at c4
+
+Turn 12
+Coin flipped tails, rook moves right
+Dice rolled 3
+oooooooo
+oooooooo
+oooBoooo
+oooooooo
+oooooooo
+oooooooo
+oooooooo
+oooooooR
+Rook at h8
+Bishop at c4
+
+Turn 13
+Coin flipped heads, rook moves up
+Dice rolled 6
+oooooooo
+oooooooR
+oooBoooo
+oooooooo
+oooooooo
+oooooooo
+oooooooo
+oooooooo
+Rook at b8
+Bishop at c4
+
+Turn 14
+Coin flipped tails, rook moves right
+Dice rolled 4
+oooooooo
+oooRoooo
+oooBoooo
+oooooooo
+oooooooo
+oooooooo
+oooooooo
+oooooooo
+Rook at b4
+Bishop at c4
+
+Turn 15
+Coin flipped tails, rook moves right
+Dice rolled 6
+oooooooo
+oRoooooo
+oooBoooo
+oooooooo
+oooooooo
+oooooooo
+oooooooo
+oooooooo
+Rook at b2
+Bishop at c4
+
+Bishop was not taken.
